@@ -11,14 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [MagicStar] Ryousangata Riko - Plamo Joshi no Jinsei Kumitateki - [WEBDL] [1080p] [AMZN]/Ryousangata.Riko.Plamo.Joshi.no.Jinsei.Kumitateki.EP01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv
-Video File: [MagicStar] Ryousangata Riko - Plamo Joshi no Jinsei Kumitateki - [WEBDL] [1080p] [AMZN]/Ryousangata.Riko.Plamo.Joshi.no.Jinsei.Kumitateki.EP01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv
+Audio File: ../[MagicStar] Ryousangata Riko - Plamo Joshi no Jinsei Kumitateki - [WEBDL] [1080p] [AMZN]/Ryousangata.Riko.Plamo.Joshi.no.Jinsei.Kumitateki.EP01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv
+Video File: ../[MagicStar] Ryousangata Riko - Plamo Joshi no Jinsei Kumitateki - [WEBDL] [1080p] [AMZN]/Ryousangata.Riko.Plamo.Joshi.no.Jinsei.Kumitateki.EP01.1080p.AMZN.WEB-DL.DDP2.0.H.264-MagicStar.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 43
-Active Line: 60
-Video Position: 5436
+Video Zoom Percent: 0.875000
+Scroll Position: 215
+Active Line: 219
+Video Position: 14243
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -241,157 +241,157 @@ Dialogue: 0,0:09:26.17,0:09:27.42,Default,,0,0,0,,{\i1}Go wild
 Dialogue: 0,0:09:27.42,0:09:28.09,Default,,0,0,0,,What?
 Dialogue: 0,0:09:28.47,0:09:29.53,Default,,0,0,0,,Go wild?
 Dialogue: 0,0:09:30.66,0:09:32.07,Default,,0,0,0,,What did he mean by "go wild"?
-Dialogue: 0,0:09:38.18,0:09:40.15,Default,,0,0,0,,What is a mass production-type?
-Dialogue: 0,0:09:48.57,0:09:49.66,Default,,0,0,0,,Toy store
-Dialogue: 0,0:09:51.77,0:09:53.74,Default,,0,0,0,,I didn't know that there's a toy store in this place
-Dialogue: 0,0:09:59.69,0:10:01.16,Default,,0,0,0,,Model store?
-Dialogue: 0,0:10:58.89,0:11:00.50,Default,,0,0,0,,Last shooting
-Dialogue: 0,0:11:03.06,0:11:06.01,Default,,0,0,0,,You must be surprised, I'm terribly sorry
-Dialogue: 0,0:11:06.79,0:11:07.56,Default,,0,0,0,,It's okay
-Dialogue: 0,0:11:07.56,0:11:11.50,Default,,0,0,0,,How many times have I told you to turn on the lights once it gets dark, Yassan?
-Dialogue: 0,0:11:11.86,0:11:13.38,Default,,0,0,0,,What are you looking for?
-Dialogue: 0,0:11:13.38,0:11:15.94,Default,,0,0,0,,I'm not here because I'm looking for something
-Dialogue: 0,0:11:16.10,0:11:17.10,Default,,0,0,0,,Do you like plastic models?
-Dialogue: 0,0:11:17.43,0:11:19.69,Default,,0,0,0,,I never build one before
-Dialogue: 0,0:11:19.69,0:11:21.29,Default,,0,0,0,,It's your first time, huh?
-Dialogue: 0,0:11:21.53,0:11:24.14,Default,,0,0,0,,No, I just entered this store on a whim
-Dialogue: 0,0:11:24.25,0:11:25.37,Default,,0,0,0,,On a whim...
-Dialogue: 0,0:11:25.85,0:11:26.76,Default,,0,0,0,,That's fine
-Dialogue: 0,0:11:27.05,0:11:29.02,Default,,0,0,0,,Please take your time and choose a plastic model
-Dialogue: 0,0:11:29.02,0:11:30.60,Default,,0,0,0,,You have plenty of time
-Dialogue: 0,0:11:30.97,0:11:32.20,Default,,0,0,0,,Thank you very much
-Dialogue: 0,0:11:54.23,0:11:55.61,Default,,0,0,0,,Mass production-type
-Dialogue: 0,0:11:58.66,0:12:05.46,Default,,0,0,0,,In the anime Gundam, it is a mobile suit that is used by the enemy force, the Zeon army
-Dialogue: 0,0:12:05.88,0:12:07.69,Default,,0,0,0,,Main mass production-type Zaku
-Dialogue: 0,0:12:08.26,0:12:09.29,Default,,0,0,0,,Zaku
-Dialogue: 0,0:12:09.50,0:12:11.50,Default,,0,0,0,,You know Gundam, right?
-Dialogue: 0,0:12:11.99,0:12:13.27,Default,,0,0,0,,Only the name
-Dialogue: 0,0:12:13.74,0:12:17.43,Default,,0,0,0,,Because Zaku is a mass production-type, it has no discerning trait and people say that it's a background character
-Dialogue: 0,0:12:17.56,0:12:21.05,Default,,0,0,0,,Not only for combat, but it is also used for security, large-scale construction and reconnaissance
-Dialogue: 0,0:12:21.32,0:12:24.84,Default,,0,0,0,,In short, they serve as the foil to other distinct and strong mobile suits
-Dialogue: 0,0:12:25.51,0:12:26.84,Default,,0,0,0,,Foils...
-Dialogue: 0,0:12:26.84,0:12:31.14,Default,,0,0,0,,But, one reason that Gundam is a long beloved series
-Dialogue: 0,0:12:31.14,0:12:33.70,Default,,0,0,0,,A lot of these type of mass production-type appeared on screen
-Dialogue: 0,0:12:33.70,0:12:37.14,Default,,0,0,0,,So the production gives a sense of reality that there are ordinary soldiers that fought in wars
-Dialogue: 0,0:12:37.14,0:12:38.06,Default,,0,0,0,,On top of it,
-Dialogue: 0,0:12:38.06,0:12:39.83,Default,,0,0,0,,For on land or for underwater use
-Dialogue: 0,0:12:39.83,0:12:43.53,Default,,0,0,0,,The charm of a mass production-type is that it has a lot of variations
-Dialogue: 0,0:12:43.53,0:12:45.86,Default,,0,0,0,,and because of that, people are still going crazy over it to this day
-Dialogue: 0,0:12:46.39,0:12:48.60,Default,,0,0,0,,The charm of a mass production-type...
-Dialogue: 0,0:12:49.22,0:12:50.10,Default,,0,0,0,,That's right
-Dialogue: 0,0:12:53.93,0:12:55.40,Default,,0,0,0,,I want to build it
-Dialogue: 0,0:12:56.20,0:12:57.40,Default,,0,0,0,,Is that so?
-Dialogue: 0,0:12:57.40,0:12:59.86,Default,,0,0,0,,Do you want to build this over there?
-Dialogue: 0,0:12:59.93,0:13:00.55,Default,,0,0,0,,What?
-Dialogue: 0,0:13:00.84,0:13:02.94,Default,,0,0,0,,It's free of charge
-Dialogue: 0,0:13:02.94,0:13:04.23,Default,,0,0,0,,I'm going to pay for it
-Dialogue: 0,0:13:04.65,0:13:07.14,Default,,0,0,0,,It's rare to see someone chose an old kit
-Dialogue: 0,0:13:07.14,0:13:08.26,Default,,0,0,0,,Old kit?
-Dialogue: 0,0:13:08.34,0:13:09.99,Default,,0,0,0,,It was the start of everything
-Dialogue: 0,0:13:10.18,0:13:11.45,Default,,0,0,0,,It's the start of Gunplas
-Dialogue: 0,0:13:12.18,0:13:13.16,Default,,0,0,0,,What is your name?
-Dialogue: 0,0:13:13.85,0:13:15.16,Default,,0,0,0,,Komukai Riko
-Dialogue: 0,0:13:15.48,0:13:16.36,Default,,0,0,0,,Okay then Riko-san
-Dialogue: 0,0:13:16.66,0:13:17.75,Default,,0,0,0,,Please go
-Dialogue: 0,0:13:17.75,0:13:18.34,Default,,0,0,0,,Go?
-Dialogue: 0,0:13:18.34,0:13:19.75,Default,,0,0,0,,Go, Riko!
-Dialogue: 0,0:13:20.42,0:13:20.86,Default,,0,0,0,,Okay
-Dialogue: 0,0:13:22.70,0:13:24.18,Default,,0,0,0,,Riko is off
-Dialogue: 0,0:13:24.97,0:13:27.64,Default,,0,0,0,,Open the box
-Dialogue: 0,0:13:35.83,0:13:38.58,Default,,0,0,0,,The thing that the parts are attached to is called a runner
-Dialogue: 0,0:13:38.74,0:13:39.59,Default,,0,0,0,,Pretty, isn't it?
-Dialogue: 0,0:13:40.10,0:13:42.06,Default,,0,0,0,,But it only has one color
-Dialogue: 0,0:13:42.06,0:13:42.60,Default,,0,0,0,,You're going to paint it
-Dialogue: 0,0:13:42.60,0:13:43.22,Default,,0,0,0,,Paint?
-Dialogue: 0,0:13:43.75,0:13:44.46,Default,,0,0,0,,Let's get started
-Dialogue: 0,0:13:46.39,0:13:50.09,Default,,0,0,0,,You cut the part that connects the parts to the runner, they are called gates
-Dialogue: 0,0:13:50.38,0:13:52.57,Default,,0,0,0,,Don't worry about the order this time
-Dialogue: 0,0:13:52.70,0:13:53.83,Default,,0,0,0,,just start cutting wherever you want
-Dialogue: 0,0:14:09.93,0:14:11.21,Default,,0,0,0,,Released
-Dialogue: 0,0:14:13.96,0:14:15.59,Default,,0,0,0,,Bring it to life
-Dialogue: 0,0:14:15.59,0:14:16.62,Default,,0,0,0,,Carefully
-Dialogue: 0,0:14:24.70,0:14:27.90,Default,,0,0,0,,That is a 1/144 mass production-type Zaku
-Dialogue: 0,0:14:27.90,0:14:30.20,Default,,0,0,0,,That is an old type of plastic model called old kit
-Dialogue: 0,0:14:30.20,0:14:32.50,Default,,0,0,0,,All the parts must be glued together
-Dialogue: 0,0:14:32.50,0:14:35.86,Default,,0,0,0,,The age range was changed from 8 years old and up to 15 years old and up
-Dialogue: 0,0:14:36.18,0:14:37.86,Default,,0,0,0,,That's a lot of information
-Dialogue: 0,0:14:54.15,0:14:55.58,Default,,0,0,0,,Okay
-Dialogue: 0,0:14:57.18,0:14:58.44,Default,,0,0,0,,Next up is gluing the parts
-Dialogue: 0,0:14:58.89,0:15:02.31,Default,,0,0,0,,The newer models uses snap fit and doesn't use any glue, but
-Dialogue: 0,0:15:02.31,0:15:03.59,Default,,0,0,0,,it is needed for old kits
-Dialogue: 0,0:15:03.67,0:15:05.61,Default,,0,0,0,,It's glue for plastic models
-Dialogue: 0,0:15:05.61,0:15:07.02,Default,,0,0,0,,This is the first time using it
-Dialogue: 0,0:15:52.42,0:15:53.98,Default,,0,0,0,,I put too much glue on it
-Dialogue: 0,0:15:53.98,0:15:55.98,Default,,0,0,0,,Don't worry, you can smooth it out later
-Dialogue: 0,0:15:56.23,0:15:57.05,Default,,0,0,0,,Smooth it out?
-Dialogue: 0,0:15:58.01,0:15:58.81,Default,,0,0,0,,That's right
-Dialogue: 0,0:16:10.71,0:16:12.01,Default,,0,0,0,,I broke it
-Dialogue: 0,0:16:12.09,0:16:13.61,Default,,0,0,0,,There's nothing that you can do about number 41
-Dialogue: 0,0:16:13.61,0:16:14.17,Default,,0,0,0,,Chiemi
-Dialogue: 0,0:16:14.17,0:16:14.87,Default,,0,0,0,,Yes
-Dialogue: 0,0:16:15.56,0:16:16.87,Default,,0,0,0,,You continue building it, Riko
-Dialogue: 0,0:16:17.91,0:16:18.81,Default,,0,0,0,,No honorifics?
-Dialogue: 0,0:16:30.84,0:16:31.75,Default,,0,0,0,,It's done
-Dialogue: 0,0:16:32.12,0:16:33.21,Default,,0,0,0,,What should I do next?
-Dialogue: 0,0:16:33.21,0:16:34.49,Default,,0,0,0,,We wait until the glue is dry
-Dialogue: 0,0:16:34.78,0:16:35.53,Default,,0,0,0,,We wait?
-Dialogue: 0,0:16:40.74,0:16:41.62,Default,,0,0,0,,Okay
-Dialogue: 0,0:16:41.74,0:16:45.27,Default,,0,0,0,,Now we're going to smooth out the excess glue
-Dialogue: 0,0:17:04.46,0:17:05.82,Default,,0,0,0,,It's time to do the head
-Dialogue: 0,0:17:57.02,0:17:58.54,Default,,0,0,0,,Now it's time to paint the Zaku
-Dialogue: 0,0:17:59.40,0:18:02.18,Default,,0,0,0,,Usually you paint it while looking at the box
-Dialogue: 0,0:18:30.54,0:18:32.46,Default,,0,0,0,,Failure is sometimes a gift
-Dialogue: 0,0:18:32.74,0:18:35.26,Default,,0,0,0,,You can fix it to your hearts content
-Dialogue: 0,0:18:35.91,0:18:37.26,Default,,0,0,0,,To my hearts content...
-Dialogue: 0,0:18:37.83,0:18:39.70,Default,,0,0,0,,You can do anything with plastic models
-Dialogue: 0,0:18:40.14,0:18:43.30,Default,,0,0,0,,There is no rule that says you have to paint it accordingly
-Dialogue: 0,0:18:55.10,0:19:01.46,Default,,0,0,0,,Normally, you'd temporarily build it first before painting it to figure out the spots that is hard to paint over
-Dialogue: 0,0:19:01.46,0:19:03.77,Default,,0,0,0,,I'll teach you about that later
-Dialogue: 0,0:19:04.14,0:19:05.77,Default,,0,0,0,,The old kits...
-Dialogue: 0,0:19:48.36,0:19:49.66,Default,,0,0,0,,Mass production-type Zaku
-Dialogue: 0,0:19:50.01,0:19:51.26,Default,,0,0,0,,Give birth!
-Dialogue: 0,0:19:51.26,0:19:52.02,Default,,0,0,0,,Give birth
-Dialogue: 0,0:19:52.02,0:19:52.98,Default,,0,0,0,,Congratulations
-Dialogue: 0,0:19:52.98,0:19:55.69,Default,,0,0,0,,It felt like sound disappeared for a moment
-Dialogue: 0,0:19:55.69,0:19:58.97,Default,,0,0,0,,It's because of the amygdala that is located deep within your brain was working
-Dialogue: 0,0:19:59.10,0:20:01.88,Default,,0,0,0,,That part of the brain is usually tired because of information overload, but
-Dialogue: 0,0:20:02.04,0:20:05.32,Default,,0,0,0,,When you can concentrate on just one thing, you feel energized and is able to concentrate
-Dialogue: 0,0:20:05.45,0:20:06.47,Default,,0,0,0,,You were in the zone
-Dialogue: 0,0:20:07.32,0:20:10.12,Default,,0,0,0,,I feel like I'm going to get a nose bleed
-Dialogue: 0,0:20:10.22,0:20:11.30,Default,,0,0,0,,What the heck
-Dialogue: 0,0:20:11.45,0:20:12.28,Default,,0,0,0,,So funny
-Dialogue: 0,0:20:12.84,0:20:16.12,Default,,0,0,0,,They say that they can see the story just by looking at a masterpiece plastic model
-Dialogue: 0,0:20:20.30,0:20:25.08,Default,,0,0,0,,Mine is clunky so I don't see the story at all, but...
-Dialogue: 0,0:20:26.38,0:20:27.50,Default,,0,0,0,,But...
-Dialogue: 0,0:20:28.71,0:20:29.78,Default,,0,0,0,,But...
-Dialogue: 0,0:20:30.17,0:20:30.78,Default,,0,0,0,,Yes?
-Dialogue: 0,0:20:32.60,0:20:35.58,Default,,0,0,0,,It's really cute
-Dialogue: 0,0:20:36.22,0:20:38.39,Default,,0,0,0,,Fondness is a form of love
-Dialogue: 0,0:20:38.66,0:20:43.26,Default,,0,0,0,,It's your very own mass production-type Zaku that you build yourself
-Dialogue: 0,0:20:43.26,0:20:47.69,Default,,0,0,0,,My very own mass production-type Zaku
-Dialogue: 0,0:20:56.30,0:20:57.93,Default,,0,0,0,,Thank you very much
-Dialogue: 0,0:20:57.93,0:20:59.18,Default,,0,0,0,,Don't mention it
-Dialogue: 0,0:21:00.17,0:21:01.64,Default,,0,0,0,,Come again!
-Dialogue: 0,0:21:14.34,0:21:15.85,Default,,0,0,0,,Did something happen, Riko?
-Dialogue: 0,0:21:16.89,0:21:18.84,Default,,0,0,0,,I'm going to deliver this documents
-Dialogue: 0,0:21:21.58,0:21:23.00,Default,,0,0,0,,I'm terribly sorry
-Dialogue: 0,0:21:23.98,0:21:25.24,Default,,0,0,0,,You were too aggressive
-Dialogue: 0,0:21:25.46,0:21:27.11,Default,,0,0,0,,Think it over and don't worry about it
-Dialogue: 0,0:21:30.60,0:21:31.59,Default,,0,0,0,,Komukai-san
-Dialogue: 0,0:21:31.59,0:21:32.17,Default,,0,0,0,,Yes
-Dialogue: 0,0:21:32.17,0:21:34.60,Default,,0,0,0,,About the cat park that you presented during the joint presentation
-Dialogue: 0,0:21:34.86,0:21:37.58,Default,,0,0,0,,There's not a lot of people who can pull it off
-Dialogue: 0,0:21:37.82,0:21:38.86,Default,,0,0,0,,Do your best
-Dialogue: 0,0:21:39.13,0:21:40.34,Default,,0,0,0,,Thank you very much
-Dialogue: 0,0:21:44.15,0:21:45.86,Default,,0,0,0,,It's not like I was scolded, got it?
-Dialogue: 0,0:21:46.39,0:21:47.86,Default,,0,0,0,,I don't think so
-Dialogue: 0,0:21:49.42,0:21:51.75,Default,,0,0,0,,department 3 might come to an end soon
-Dialogue: 0,0:21:52.70,0:21:55.03,Default,,0,0,0,,A problematic person from department 1 is coming your way
-Dialogue: 0,0:22:01.08,0:22:02.10,Default,,0,0,0,,Asai
-Dialogue: 0,0:22:02.65,0:22:04.98,Default,,0,0,0,,Do you remember what you told me the other day?
-Dialogue: 0,0:22:06.25,0:22:06.95,Default,,0,0,0,,What?
-Dialogue: 0,0:22:08.62,0:22:12.50,Default,,0,0,0,,I'm Komukai Riko, a mass production-type person
-Dialogue: 0,0:22:13.75,0:22:15.16,Default,,0,0,0,,You...
-Dialogue: 0,0:22:15.16,0:22:17.06,Default,,0,0,0,,What are you saying with a straight face...
-Dialogue: 0,0:22:17.51,0:22:18.46,Default,,0,0,0,,Hey!
-Dialogue: 0,0:22:22.10,0:22:23.85,Default,,0,0,0,,Komukai...
+Dialogue: 0,0:09:36.36,0:09:38.33,Default,,0,0,0,,What is a mass production-type?
+Dialogue: 0,0:09:46.75,0:09:47.84,Default,,0,0,0,,Toy store
+Dialogue: 0,0:09:49.95,0:09:51.92,Default,,0,0,0,,I didn't know that there's a toy store in this place
+Dialogue: 0,0:09:57.87,0:09:59.34,Default,,0,0,0,,Model store?
+Dialogue: 0,0:10:57.07,0:10:58.68,Default,,0,0,0,,Last shooting
+Dialogue: 0,0:11:01.24,0:11:04.19,Default,,0,0,0,,You must be surprised, I'm terribly sorry
+Dialogue: 0,0:11:04.97,0:11:05.74,Default,,0,0,0,,It's okay
+Dialogue: 0,0:11:05.74,0:11:09.68,Default,,0,0,0,,How many times have I told you to turn on the lights once it gets dark, Yassan?
+Dialogue: 0,0:11:10.04,0:11:11.56,Default,,0,0,0,,What are you looking for?
+Dialogue: 0,0:11:11.56,0:11:14.12,Default,,0,0,0,,I'm not here because I'm looking for something
+Dialogue: 0,0:11:14.28,0:11:15.28,Default,,0,0,0,,Do you like plastic models?
+Dialogue: 0,0:11:15.61,0:11:17.87,Default,,0,0,0,,I never build one before
+Dialogue: 0,0:11:17.87,0:11:19.47,Default,,0,0,0,,It's your first time, huh?
+Dialogue: 0,0:11:19.71,0:11:22.32,Default,,0,0,0,,No, I just entered this store on a whim
+Dialogue: 0,0:11:22.43,0:11:23.55,Default,,0,0,0,,On a whim...
+Dialogue: 0,0:11:24.03,0:11:24.94,Default,,0,0,0,,That's fine
+Dialogue: 0,0:11:25.23,0:11:27.20,Default,,0,0,0,,Please take your time and choose a plastic model
+Dialogue: 0,0:11:27.20,0:11:28.78,Default,,0,0,0,,You have plenty of time
+Dialogue: 0,0:11:29.15,0:11:30.38,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:11:52.41,0:11:53.79,Default,,0,0,0,,Mass production-type
+Dialogue: 0,0:11:56.84,0:12:03.64,Default,,0,0,0,,In the anime Gundam, it is a mobile suit that is used by the enemy force, the Zeon army
+Dialogue: 0,0:12:04.06,0:12:05.87,Default,,0,0,0,,Main mass production-type Zaku
+Dialogue: 0,0:12:06.44,0:12:07.47,Default,,0,0,0,,Zaku
+Dialogue: 0,0:12:07.68,0:12:09.68,Default,,0,0,0,,You know Gundam, right?
+Dialogue: 0,0:12:10.17,0:12:11.45,Default,,0,0,0,,Only the name
+Dialogue: 0,0:12:11.92,0:12:15.61,Default,,0,0,0,,Because Zaku is a mass production-type, it has no discerning trait and people say that it's a background character
+Dialogue: 0,0:12:15.74,0:12:19.23,Default,,0,0,0,,Not only for combat, but it is also used for security, large-scale construction and reconnaissance
+Dialogue: 0,0:12:19.50,0:12:23.02,Default,,0,0,0,,In short, they serve as the foil to other distinct and strong mobile suits
+Dialogue: 0,0:12:23.69,0:12:25.02,Default,,0,0,0,,Foils...
+Dialogue: 0,0:12:25.02,0:12:29.32,Default,,0,0,0,,But, one reason that Gundam is a long beloved series
+Dialogue: 0,0:12:29.32,0:12:31.88,Default,,0,0,0,,A lot of these type of mass production-type appeared on screen
+Dialogue: 0,0:12:31.88,0:12:35.32,Default,,0,0,0,,So the production gives a sense of reality that there are ordinary soldiers that fought in wars
+Dialogue: 0,0:12:35.32,0:12:36.24,Default,,0,0,0,,On top of it,
+Dialogue: 0,0:12:36.24,0:12:38.01,Default,,0,0,0,,For on land or for underwater use
+Dialogue: 0,0:12:38.01,0:12:41.71,Default,,0,0,0,,The charm of a mass production-type is that it has a lot of variations
+Dialogue: 0,0:12:41.71,0:12:44.04,Default,,0,0,0,,and because of that, people are still going crazy over it to this day
+Dialogue: 0,0:12:44.57,0:12:46.78,Default,,0,0,0,,The charm of a mass production-type...
+Dialogue: 0,0:12:47.40,0:12:48.28,Default,,0,0,0,,That's right
+Dialogue: 0,0:12:52.11,0:12:53.58,Default,,0,0,0,,I want to build it
+Dialogue: 0,0:12:54.38,0:12:55.58,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:12:55.58,0:12:58.04,Default,,0,0,0,,Do you want to build this over there?
+Dialogue: 0,0:12:58.11,0:12:58.73,Default,,0,0,0,,What?
+Dialogue: 0,0:12:59.02,0:13:01.12,Default,,0,0,0,,It's free of charge
+Dialogue: 0,0:13:01.12,0:13:02.41,Default,,0,0,0,,I'm going to pay for it
+Dialogue: 0,0:13:02.83,0:13:05.32,Default,,0,0,0,,It's rare to see someone chose an old kit
+Dialogue: 0,0:13:05.32,0:13:06.44,Default,,0,0,0,,Old kit?
+Dialogue: 0,0:13:06.52,0:13:08.17,Default,,0,0,0,,It was the start of everything
+Dialogue: 0,0:13:08.36,0:13:09.63,Default,,0,0,0,,It's the start of Gunplas
+Dialogue: 0,0:13:10.36,0:13:11.34,Default,,0,0,0,,What is your name?
+Dialogue: 0,0:13:12.03,0:13:13.34,Default,,0,0,0,,Komukai Riko
+Dialogue: 0,0:13:13.66,0:13:14.54,Default,,0,0,0,,Okay then Riko-san
+Dialogue: 0,0:13:14.84,0:13:15.93,Default,,0,0,0,,Please go
+Dialogue: 0,0:13:15.93,0:13:16.52,Default,,0,0,0,,Go?
+Dialogue: 0,0:13:16.52,0:13:17.93,Default,,0,0,0,,Go, Riko!
+Dialogue: 0,0:13:18.60,0:13:19.04,Default,,0,0,0,,Okay
+Dialogue: 0,0:13:20.88,0:13:22.36,Default,,0,0,0,,Riko is off
+Dialogue: 0,0:13:23.15,0:13:25.82,Default,,0,0,0,,Open the box
+Dialogue: 0,0:13:34.01,0:13:36.76,Default,,0,0,0,,The thing that the parts are attached to is called a runner
+Dialogue: 0,0:13:36.92,0:13:37.77,Default,,0,0,0,,Pretty, isn't it?
+Dialogue: 0,0:13:38.28,0:13:40.24,Default,,0,0,0,,But it only has one color
+Dialogue: 0,0:13:40.24,0:13:40.78,Default,,0,0,0,,You're going to paint it
+Dialogue: 0,0:13:40.78,0:13:41.40,Default,,0,0,0,,Paint?
+Dialogue: 0,0:13:41.93,0:13:42.64,Default,,0,0,0,,Let's get started
+Dialogue: 0,0:13:44.57,0:13:48.27,Default,,0,0,0,,You cut the part that connects the parts to the runner, they are called gates
+Dialogue: 0,0:13:48.56,0:13:50.75,Default,,0,0,0,,Don't worry about the order this time
+Dialogue: 0,0:13:50.88,0:13:52.01,Default,,0,0,0,,just start cutting wherever you want
+Dialogue: 0,0:14:08.11,0:14:09.39,Default,,0,0,0,,Released
+Dialogue: 0,0:14:12.14,0:14:13.77,Default,,0,0,0,,Bring it to life
+Dialogue: 0,0:14:13.77,0:14:14.80,Default,,0,0,0,,Carefully
+Dialogue: 0,0:14:22.88,0:14:26.08,Default,,0,0,0,,That is a 1/144 mass production-type Zaku
+Dialogue: 0,0:14:26.08,0:14:28.38,Default,,0,0,0,,That is an old type of plastic model called old kit
+Dialogue: 0,0:14:28.38,0:14:30.68,Default,,0,0,0,,All the parts must be glued together
+Dialogue: 0,0:14:30.68,0:14:34.04,Default,,0,0,0,,The age range was changed from 8 years old and up to 15 years old and up
+Dialogue: 0,0:14:34.36,0:14:36.04,Default,,0,0,0,,That's a lot of information
+Dialogue: 0,0:14:52.33,0:14:53.76,Default,,0,0,0,,Okay
+Dialogue: 0,0:14:55.36,0:14:56.62,Default,,0,0,0,,Next up is gluing the parts
+Dialogue: 0,0:14:57.07,0:15:00.49,Default,,0,0,0,,The newer models uses snap fit and doesn't use any glue, but
+Dialogue: 0,0:15:00.49,0:15:01.77,Default,,0,0,0,,it is needed for old kits
+Dialogue: 0,0:15:01.85,0:15:03.79,Default,,0,0,0,,It's glue for plastic models
+Dialogue: 0,0:15:03.79,0:15:05.20,Default,,0,0,0,,This is the first time using it
+Dialogue: 0,0:15:50.60,0:15:52.16,Default,,0,0,0,,I put too much glue on it
+Dialogue: 0,0:15:52.16,0:15:54.16,Default,,0,0,0,,Don't worry, you can smooth it out later
+Dialogue: 0,0:15:54.41,0:15:55.23,Default,,0,0,0,,Smooth it out?
+Dialogue: 0,0:15:56.19,0:15:56.99,Default,,0,0,0,,That's right
+Dialogue: 0,0:16:08.89,0:16:10.19,Default,,0,0,0,,I broke it
+Dialogue: 0,0:16:10.27,0:16:11.79,Default,,0,0,0,,There's nothing that you can do about number 41
+Dialogue: 0,0:16:11.79,0:16:12.35,Default,,0,0,0,,Chiemi
+Dialogue: 0,0:16:12.35,0:16:13.05,Default,,0,0,0,,Yes
+Dialogue: 0,0:16:13.74,0:16:15.05,Default,,0,0,0,,You continue building it, Riko
+Dialogue: 0,0:16:16.09,0:16:16.99,Default,,0,0,0,,No honorifics?
+Dialogue: 0,0:16:29.02,0:16:29.93,Default,,0,0,0,,It's done
+Dialogue: 0,0:16:30.30,0:16:31.39,Default,,0,0,0,,What should I do next?
+Dialogue: 0,0:16:31.39,0:16:32.67,Default,,0,0,0,,We wait until the glue is dry
+Dialogue: 0,0:16:32.96,0:16:33.71,Default,,0,0,0,,We wait?
+Dialogue: 0,0:16:38.92,0:16:39.80,Default,,0,0,0,,Okay
+Dialogue: 0,0:16:39.92,0:16:43.45,Default,,0,0,0,,Now we're going to smooth out the excess glue
+Dialogue: 0,0:17:02.64,0:17:04.00,Default,,0,0,0,,It's time to do the head
+Dialogue: 0,0:17:55.20,0:17:56.72,Default,,0,0,0,,Now it's time to paint the Zaku
+Dialogue: 0,0:17:57.58,0:18:00.36,Default,,0,0,0,,Usually you paint it while looking at the box
+Dialogue: 0,0:18:28.72,0:18:30.64,Default,,0,0,0,,Failure is sometimes a gift
+Dialogue: 0,0:18:30.92,0:18:33.44,Default,,0,0,0,,You can fix it to your hearts content
+Dialogue: 0,0:18:34.09,0:18:35.44,Default,,0,0,0,,To my hearts content...
+Dialogue: 0,0:18:36.01,0:18:37.88,Default,,0,0,0,,You can do anything with plastic models
+Dialogue: 0,0:18:38.32,0:18:41.48,Default,,0,0,0,,There is no rule that says you have to paint it accordingly
+Dialogue: 0,0:18:53.28,0:18:59.64,Default,,0,0,0,,Normally, you'd temporarily build it first before painting it to figure out the spots that is hard to paint over
+Dialogue: 0,0:18:59.64,0:19:01.95,Default,,0,0,0,,I'll teach you about that later
+Dialogue: 0,0:19:02.32,0:19:03.95,Default,,0,0,0,,The old kits...
+Dialogue: 0,0:19:46.54,0:19:47.84,Default,,0,0,0,,Mass production-type Zaku
+Dialogue: 0,0:19:48.19,0:19:49.44,Default,,0,0,0,,Give birth!
+Dialogue: 0,0:19:49.44,0:19:50.20,Default,,0,0,0,,Give birth
+Dialogue: 0,0:19:50.20,0:19:51.16,Default,,0,0,0,,Congratulations
+Dialogue: 0,0:19:51.16,0:19:53.87,Default,,0,0,0,,It felt like sound disappeared for a moment
+Dialogue: 0,0:19:53.87,0:19:57.15,Default,,0,0,0,,It's because of the amygdala that is located deep within your brain was working
+Dialogue: 0,0:19:57.28,0:20:00.06,Default,,0,0,0,,That part of the brain is usually tired because of information overload, but
+Dialogue: 0,0:20:00.22,0:20:03.50,Default,,0,0,0,,When you can concentrate on just one thing, you feel energized and is able to concentrate
+Dialogue: 0,0:20:03.63,0:20:04.65,Default,,0,0,0,,You were in the zone
+Dialogue: 0,0:20:05.50,0:20:08.30,Default,,0,0,0,,I feel like I'm going to get a nose bleed
+Dialogue: 0,0:20:08.40,0:20:09.48,Default,,0,0,0,,What the heck
+Dialogue: 0,0:20:09.63,0:20:10.46,Default,,0,0,0,,So funny
+Dialogue: 0,0:20:11.02,0:20:14.30,Default,,0,0,0,,They say that they can see the story just by looking at a masterpiece plastic model
+Dialogue: 0,0:20:18.48,0:20:23.26,Default,,0,0,0,,Mine is clunky so I don't see the story at all, but...
+Dialogue: 0,0:20:24.56,0:20:25.68,Default,,0,0,0,,But...
+Dialogue: 0,0:20:26.89,0:20:27.96,Default,,0,0,0,,But...
+Dialogue: 0,0:20:28.35,0:20:28.96,Default,,0,0,0,,Yes?
+Dialogue: 0,0:20:30.78,0:20:33.76,Default,,0,0,0,,It's really cute
+Dialogue: 0,0:20:34.40,0:20:36.57,Default,,0,0,0,,Fondness is a form of love
+Dialogue: 0,0:20:36.84,0:20:41.44,Default,,0,0,0,,It's your very own mass production-type Zaku that you build yourself
+Dialogue: 0,0:20:41.44,0:20:45.87,Default,,0,0,0,,My very own mass production-type Zaku
+Dialogue: 0,0:20:54.48,0:20:56.11,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:20:56.11,0:20:57.36,Default,,0,0,0,,Don't mention it
+Dialogue: 0,0:20:58.35,0:20:59.82,Default,,0,0,0,,Come again!
+Dialogue: 0,0:21:12.52,0:21:14.03,Default,,0,0,0,,Did something happen, Riko?
+Dialogue: 0,0:21:15.07,0:21:17.02,Default,,0,0,0,,I'm going to deliver this documents
+Dialogue: 0,0:21:19.76,0:21:21.18,Default,,0,0,0,,I'm terribly sorry
+Dialogue: 0,0:21:22.16,0:21:23.42,Default,,0,0,0,,You were too aggressive
+Dialogue: 0,0:21:23.64,0:21:25.29,Default,,0,0,0,,Think it over and don't worry about it
+Dialogue: 0,0:21:28.78,0:21:29.77,Default,,0,0,0,,Komukai-san
+Dialogue: 0,0:21:29.77,0:21:30.35,Default,,0,0,0,,Yes
+Dialogue: 0,0:21:30.35,0:21:32.78,Default,,0,0,0,,About the cat park that you presented during the joint presentation
+Dialogue: 0,0:21:33.04,0:21:35.76,Default,,0,0,0,,There's not a lot of people who can pull it off
+Dialogue: 0,0:21:36.00,0:21:37.04,Default,,0,0,0,,Do your best
+Dialogue: 0,0:21:37.31,0:21:38.52,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:21:42.33,0:21:44.04,Default,,0,0,0,,It's not like I was scolded, got it?
+Dialogue: 0,0:21:44.57,0:21:46.04,Default,,0,0,0,,I don't think so
+Dialogue: 0,0:21:47.60,0:21:49.93,Default,,0,0,0,,department 3 might come to an end soon
+Dialogue: 0,0:21:50.88,0:21:53.21,Default,,0,0,0,,A problematic person from department 1 is coming your way
+Dialogue: 0,0:21:59.26,0:22:00.28,Default,,0,0,0,,Asai
+Dialogue: 0,0:22:00.83,0:22:03.16,Default,,0,0,0,,Do you remember what you told me the other day?
+Dialogue: 0,0:22:04.43,0:22:05.13,Default,,0,0,0,,What?
+Dialogue: 0,0:22:06.80,0:22:10.68,Default,,0,0,0,,I'm Komukai Riko, a mass production-type person
+Dialogue: 0,0:22:11.93,0:22:13.34,Default,,0,0,0,,You...
+Dialogue: 0,0:22:13.34,0:22:15.24,Default,,0,0,0,,What are you saying with a straight face...
+Dialogue: 0,0:22:15.69,0:22:16.64,Default,,0,0,0,,Hey!
+Dialogue: 0,0:22:20.28,0:22:22.03,Default,,0,0,0,,Komukai...
