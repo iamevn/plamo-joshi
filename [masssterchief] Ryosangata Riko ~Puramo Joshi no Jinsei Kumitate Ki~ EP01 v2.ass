@@ -16,20 +16,19 @@ Video File: ../[MagicStar] Ryousangata Riko - Plamo Joshi no Jinsei Kumitateki -
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 215
-Active Line: 219
-Video Position: 14243
+Scroll Position: 107
+Active Line: 120
+Video Position: 9531
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Fontin Sans Rg,62,&H00EBEFF6,&H000000FF,&H00091A04,&HBE000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,90,90,40,1
 Style: Chapters,Fontin Sans Rg,62,&H00EBEFF6,&H000000FF,&H00091A04,&HBE000000,-1,0,0,0,100,100,0,0,1,2.4,1,8,90,90,40,1
+Style: Signs,Fontin Sans Rg,62,&H00EBEFF6,&H000000FF,&H00091A04,&HBE000000,-1,0,0,0,100,100,0,0,1,2.4,1,8,90,90,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.02,0:00:00.06,chapters,,0,0,0,,Intro
-Comment: 0,0:01:53.21,0:01:53.25,chapters,,0,0,0,,OP
-Comment: 0,0:02:52.77,0:02:54.77,chapters,,0,0,0,,Part A
 Dialogue: 0,0:00:21.74,0:00:22.75,Default,,0,0,0,,Ooishi-san
 Dialogue: 0,0:00:22.75,0:00:25.55,Default,,0,0,0,,Because inbound recovery is expected, I have set up the Japanese content
 Dialogue: 0,0:00:25.55,0:00:26.70,Default,,0,0,0,,Can you please take a look?
@@ -37,7 +36,7 @@ Dialogue: 0,0:00:26.70,0:00:27.79,Default,,0,0,0,,Okay, I'll take a look
 Dialogue: 0,0:00:30.22,0:00:31.40,Default,,0,0,0,,I'm sorry
 Dialogue: 0,0:00:31.40,0:00:33.74,Default,,0,0,0,,Can you you make the name of the star bigger?
 Dialogue: 0,0:00:33.74,0:00:36.81,Default,,0,0,0,,Hey, how is the media coverage for tomorrow's supplement company launch going to be?
-Dialogue: 0,0:00:41.58,0:00:45.85,Default,,0,0,0,,Yesterday special show about Ichiro teaching baseball to kids was great
+Dialogue: 0,0:00:41.58,0:00:45.85,Default,,0,0,0,,Yesterday's special show about Ichiro teaching baseball to kids was great
 Dialogue: 0,0:00:45.98,0:00:47.68,Default,,0,0,0,,Summer equals Koushien after all
 Dialogue: 0,0:00:47.68,0:00:50.75,Default,,0,0,0,,Sweat, mud and tears melts together under the summer sun, right?
 Dialogue: 0,0:00:50.75,0:00:51.39,Default,,0,0,0,,That's right
@@ -68,6 +67,8 @@ Dialogue: 0,0:01:41.15,0:01:42.65,Default,,0,0,0,,No, it's nothing
 Dialogue: 0,0:01:42.80,0:01:44.32,Default,,0,0,0,,It sure is peaceful over here
 Dialogue: 0,0:01:44.32,0:01:45.26,Default,,0,0,0,,That's right
 Dialogue: 0,0:01:51.80,0:01:52.83,Default,,0,0,0,,So precious
+Comment: 0,0:01:53.21,0:01:53.25,chapters,,0,0,0,,OP
+Comment: 0,0:02:52.77,0:02:54.77,chapters,,0,0,0,,Part A
 Dialogue: 0,0:02:53.40,0:02:54.65,Default,,0,0,0,,Okay, it's time
 Dialogue: 0,0:02:54.65,0:02:55.48,Default,,0,0,0,,Okay
 Dialogue: 0,0:03:03.34,0:03:04.76,Default,,0,0,0,,As you know,
@@ -82,14 +83,14 @@ Dialogue: 0,0:03:25.98,0:03:27.19,Default,,0,0,0,,I'm not interested in him at a
 Dialogue: 0,0:03:27.19,0:03:28.71,Default,,0,0,0,,Ooishi-kun sure is getting fat
 Dialogue: 0,0:03:28.71,0:03:30.71,Default,,0,0,0,,Just like Inuzuka-kun in his younger days
 Dialogue: 0,0:03:30.71,0:03:32.46,Default,,0,0,0,,I was just greasy back then
-Dialogue: 0,0:03:32.46,0:03:34.38,Default,,0,0,0,,They should have done this award ceremony over zoom
+Dialogue: 0,0:03:32.46,0:03:34.38,Default,,0,0,0,,They should have done this award ceremony over Zoom
 Dialogue: 0,0:03:35.13,0:03:38.12,Default,,0,0,0,,You're just the best Ooishi-san
 Dialogue: 0,0:03:38.12,0:03:39.85,Default,,0,0,0,,There's an interesting freshman in department 1
 Dialogue: 0,0:03:40.04,0:03:42.87,Default,,0,0,0,,Nobody is getting assigned to be under me in department 3, right?
 Dialogue: 0,0:03:43.27,0:03:45.50,Default,,0,0,0,,Next up is the joint project presentation
-Dialogue: 0,0:03:46.10,0:03:50.50,Default,,0,0,0,,Department 1 proposes an Iot project in depopulated areas
+Dialogue: 0,0:03:46.10,0:03:50.50,Default,,0,0,0,,Department 1 proposes an IoT project in depopulated areas
 Dialogue: 0,0:03:51.32,0:03:53.22,Default,,0,0,0,,This is a medium-to-long-term city development project
-Dialogue: 0,0:03:53.88,0:03:56.97,Default,,0,0,0,,We will strive for regional revitalization through Iot
+Dialogue: 0,0:03:53.88,0:03:56.97,Default,,0,0,0,,We will strive for regional revitalization through IoT
 Dialogue: 0,0:03:57.06,0:03:58.87,Default,,0,0,0,,Department 2 proposes
 Dialogue: 0,0:03:58.87,0:04:01.21,Default,,0,0,0,,a metaverse avatar fashion show
 Dialogue: 0,0:04:01.21,0:04:03.48,Default,,0,0,0,,A famous person's avatar will appear on the show,
@@ -143,8 +144,11 @@ Dialogue: 0,0:05:31.51,0:05:34.97,Default,,0,0,0,,The way things are going, ther
 Dialogue: 0,0:05:40.12,0:05:41.18,Default,,0,0,0,,What?
 Dialogue: 0,0:05:42.70,0:05:45.53,Default,,0,0,0,,I thought that everything would be fine if I'm here, but...
 Dialogue: 0,0:05:46.94,0:05:50.46,Default,,0,0,0,,An organization spreads those kinds of rumors from time to time...
+Dialogue: 0,0:05:55.16,0:05:57.67,Signs,,0,0,0,,Mass production-type
 Dialogue: 0,0:06:00.01,0:06:03.05,Default,,0,0,0,,They might ask me to retire early
 Dialogue: 0,0:06:03.69,0:06:05.85,Default,,0,0,0,,I guess I'll move somewhere when the time comes
+Dialogue: 0,0:06:04.88,0:06:05.55,Signs,,0,0,0,,Background character{mob chara}
+Dialogue: 0,0:06:05.55,0:06:07.26,Signs,,0,0,0,,Unnamed character{small-fry chara}
 Dialogue: 0,0:06:06.66,0:06:09.48,Default,,0,0,0,,I want to stay here forever, because it's peaceful
 Dialogue: 0,0:06:13.24,0:06:14.30,Default,,0,0,0,,Kijimura-san
 Dialogue: 0,0:06:14.39,0:06:15.74,Default,,0,0,0,,We still don't know what the future holds
@@ -211,8 +215,8 @@ Dialogue: 0,0:08:07.38,0:08:08.84,Default,,0,0,0,,I loved the toy store
 Dialogue: 0,0:08:10.14,0:08:13.78,Default,,0,0,0,,I felt like everything in that store was waiting for me
 Dialogue: 0,0:08:14.01,0:08:15.78,Default,,0,0,0,,My heart was racing every time I passed it
 Dialogue: 0,0:08:16.60,0:08:18.26,Default,,0,0,0,,Everything was sparkling
-Dialogue: 0,0:08:18.62,0:08:22.33,Default,,0,0,0,,I was interested in robots, plastic models or dinosaurs, but
-Dialogue: 0,0:08:22.90,0:08:26.12,Default,,0,0,0,,I was nervous everytime I passed it for some reason
+Dialogue: 0,0:08:18.62,0:08:22.33,Default,,0,0,0,,I was interested in things like robots, plastic models, or dinosaurs
+Dialogue: 0,0:08:22.90,0:08:26.12,Default,,0,0,0,,But I was nervous everytime I passed it for some reason
 Dialogue: 0,0:08:26.94,0:08:29.67,Default,,0,0,0,,I was excited looking at dolls or transforming sticks
 Dialogue: 0,0:08:30.04,0:08:33.91,Default,,0,0,0,,A mass production-type where she has lost her dreams, huh?
 Dialogue: 0,0:08:34.33,0:08:35.50,Default,,0,0,0,,Please don't say that
@@ -231,7 +235,7 @@ Dialogue: 0,0:08:58.31,0:08:58.82,Default,,0,0,0,,What?
 Dialogue: 0,0:08:59.24,0:09:00.82,Default,,0,0,0,,Are you excited?
 Dialogue: 0,0:09:01.50,0:09:04.54,Default,,0,0,0,,Is excitement necessary for adults?
 Dialogue: 0,0:09:04.54,0:09:05.91,Default,,0,0,0,,I heard what he said to you earlier
-Dialogue: 0,0:09:05.91,0:09:09.46,Default,,0,0,0,,Is there something that can get lost into?
+Dialogue: 0,0:09:05.91,0:09:09.46,Default,,0,0,0,,Is there anything that you can get lost in?
 Dialogue: 0,0:09:09.66,0:09:12.23,Default,,0,0,0,,Playing pokemon or watching videos
 Dialogue: 0,0:09:12.23,0:09:14.46,Default,,0,0,0,,Do you like that so much that it makes your nose bleed?
 Dialogue: 0,0:09:15.91,0:09:16.49,Default,,0,0,0,,No
@@ -243,7 +247,7 @@ Dialogue: 0,0:09:28.47,0:09:29.53,Default,,0,0,0,,Go wild?
 Dialogue: 0,0:09:30.66,0:09:32.07,Default,,0,0,0,,What did he mean by "go wild"?
 Dialogue: 0,0:09:36.36,0:09:38.33,Default,,0,0,0,,What is a mass production-type?
 Dialogue: 0,0:09:46.75,0:09:47.84,Default,,0,0,0,,Toy store
-Dialogue: 0,0:09:49.95,0:09:51.92,Default,,0,0,0,,I didn't know that there's a toy store in this place
+Dialogue: 0,0:09:49.95,0:09:51.92,Default,,0,0,0,,I didn't know there was a toy store here
 Dialogue: 0,0:09:57.87,0:09:59.34,Default,,0,0,0,,Model store?
 Dialogue: 0,0:10:57.07,0:10:58.68,Default,,0,0,0,,Last shooting
 Dialogue: 0,0:11:01.24,0:11:04.19,Default,,0,0,0,,You must be surprised, I'm terribly sorry
@@ -252,7 +256,7 @@ Dialogue: 0,0:11:05.74,0:11:09.68,Default,,0,0,0,,How many times have I told you
 Dialogue: 0,0:11:10.04,0:11:11.56,Default,,0,0,0,,What are you looking for?
 Dialogue: 0,0:11:11.56,0:11:14.12,Default,,0,0,0,,I'm not here because I'm looking for something
 Dialogue: 0,0:11:14.28,0:11:15.28,Default,,0,0,0,,Do you like plastic models?
-Dialogue: 0,0:11:15.61,0:11:17.87,Default,,0,0,0,,I never build one before
+Dialogue: 0,0:11:15.61,0:11:17.87,Default,,0,0,0,,I've never built one before
 Dialogue: 0,0:11:17.87,0:11:19.47,Default,,0,0,0,,It's your first time, huh?
 Dialogue: 0,0:11:19.71,0:11:22.32,Default,,0,0,0,,No, I just entered this store on a whim
 Dialogue: 0,0:11:22.43,0:11:23.55,Default,,0,0,0,,On a whim...
@@ -261,7 +265,7 @@ Dialogue: 0,0:11:25.23,0:11:27.20,Default,,0,0,0,,Please take your time and choo
 Dialogue: 0,0:11:27.20,0:11:28.78,Default,,0,0,0,,You have plenty of time
 Dialogue: 0,0:11:29.15,0:11:30.38,Default,,0,0,0,,Thank you very much
 Dialogue: 0,0:11:52.41,0:11:53.79,Default,,0,0,0,,Mass production-type
-Dialogue: 0,0:11:56.84,0:12:03.64,Default,,0,0,0,,In the anime Gundam, it is a mobile suit that is used by the enemy force, the Zeon army
+Dialogue: 0,0:11:56.84,0:12:03.64,Default,,0,0,0,,It's a mobile suit from the anime Mobile Suit Gundam that's used by the enemy force, the Zeon army:
 Dialogue: 0,0:12:04.06,0:12:05.87,Default,,0,0,0,,Main mass production-type Zaku
 Dialogue: 0,0:12:06.44,0:12:07.47,Default,,0,0,0,,Zaku
 Dialogue: 0,0:12:07.68,0:12:09.68,Default,,0,0,0,,You know Gundam, right?
@@ -296,7 +300,7 @@ Dialogue: 0,0:13:14.84,0:13:15.93,Default,,0,0,0,,Please go
 Dialogue: 0,0:13:15.93,0:13:16.52,Default,,0,0,0,,Go?
 Dialogue: 0,0:13:16.52,0:13:17.93,Default,,0,0,0,,Go, Riko!
 Dialogue: 0,0:13:18.60,0:13:19.04,Default,,0,0,0,,Okay
-Dialogue: 0,0:13:20.88,0:13:22.36,Default,,0,0,0,,Riko is off
+Dialogue: 0,0:13:20.88,0:13:22.36,Default,,0,0,0,,Riko is off{TODO}
 Dialogue: 0,0:13:23.15,0:13:25.82,Default,,0,0,0,,Open the box
 Dialogue: 0,0:13:34.01,0:13:36.76,Default,,0,0,0,,The thing that the parts are attached to is called a runner
 Dialogue: 0,0:13:36.92,0:13:37.77,Default,,0,0,0,,Pretty, isn't it?
@@ -317,8 +321,8 @@ Dialogue: 0,0:14:30.68,0:14:34.04,Default,,0,0,0,,The age range was changed from
 Dialogue: 0,0:14:34.36,0:14:36.04,Default,,0,0,0,,That's a lot of information
 Dialogue: 0,0:14:52.33,0:14:53.76,Default,,0,0,0,,Okay
 Dialogue: 0,0:14:55.36,0:14:56.62,Default,,0,0,0,,Next up is gluing the parts
-Dialogue: 0,0:14:57.07,0:15:00.49,Default,,0,0,0,,The newer models uses snap fit and doesn't use any glue, but
-Dialogue: 0,0:15:00.49,0:15:01.77,Default,,0,0,0,,it is needed for old kits
+Dialogue: 0,0:14:57.07,0:15:00.49,Default,,0,0,0,,The newer models are snap fit and don't need any glue,
+Dialogue: 0,0:15:00.49,0:15:01.77,Default,,0,0,0,,but it is needed for old kits
 Dialogue: 0,0:15:01.85,0:15:03.79,Default,,0,0,0,,It's glue for plastic models
 Dialogue: 0,0:15:03.79,0:15:05.20,Default,,0,0,0,,This is the first time using it
 Dialogue: 0,0:15:50.60,0:15:52.16,Default,,0,0,0,,I put too much glue on it
@@ -341,16 +345,16 @@ Dialogue: 0,0:17:02.64,0:17:04.00,Default,,0,0,0,,It's time to do the head
 Dialogue: 0,0:17:55.20,0:17:56.72,Default,,0,0,0,,Now it's time to paint the Zaku
 Dialogue: 0,0:17:57.58,0:18:00.36,Default,,0,0,0,,Usually you paint it while looking at the box
 Dialogue: 0,0:18:28.72,0:18:30.64,Default,,0,0,0,,Failure is sometimes a gift
-Dialogue: 0,0:18:30.92,0:18:33.44,Default,,0,0,0,,You can fix it to your hearts content
-Dialogue: 0,0:18:34.09,0:18:35.44,Default,,0,0,0,,To my hearts content...
+Dialogue: 0,0:18:30.92,0:18:33.44,Default,,0,0,0,,You can fix it to your heart's content
+Dialogue: 0,0:18:34.09,0:18:35.44,Default,,0,0,0,,To my heart's content...
 Dialogue: 0,0:18:36.01,0:18:37.88,Default,,0,0,0,,You can do anything with plastic models
-Dialogue: 0,0:18:38.32,0:18:41.48,Default,,0,0,0,,There is no rule that says you have to paint it accordingly
+Dialogue: 0,0:18:38.32,0:18:41.48,Default,,0,0,0,,There is no rule that says you have to paint it like the box
 Dialogue: 0,0:18:53.28,0:18:59.64,Default,,0,0,0,,Normally, you'd temporarily build it first before painting it to figure out the spots that is hard to paint over
 Dialogue: 0,0:18:59.64,0:19:01.95,Default,,0,0,0,,I'll teach you about that later
 Dialogue: 0,0:19:02.32,0:19:03.95,Default,,0,0,0,,The old kits...
 Dialogue: 0,0:19:46.54,0:19:47.84,Default,,0,0,0,,Mass production-type Zaku
-Dialogue: 0,0:19:48.19,0:19:49.44,Default,,0,0,0,,Give birth!
-Dialogue: 0,0:19:49.44,0:19:50.20,Default,,0,0,0,,Give birth
+Dialogue: 0,0:19:48.19,0:19:49.44,Default,,0,0,0,,Give birth!{TODO: is this a thing or can I change}
+Dialogue: 0,0:19:49.44,0:19:50.20,Default,,0,0,0,,Give birth{TODO: ditto}
 Dialogue: 0,0:19:50.20,0:19:51.16,Default,,0,0,0,,Congratulations
 Dialogue: 0,0:19:51.16,0:19:53.87,Default,,0,0,0,,It felt like sound disappeared for a moment
 Dialogue: 0,0:19:53.87,0:19:57.15,Default,,0,0,0,,It's because of the amygdala that is located deep within your brain was working
@@ -373,7 +377,7 @@ Dialogue: 0,0:20:54.48,0:20:56.11,Default,,0,0,0,,Thank you very much
 Dialogue: 0,0:20:56.11,0:20:57.36,Default,,0,0,0,,Don't mention it
 Dialogue: 0,0:20:58.35,0:20:59.82,Default,,0,0,0,,Come again!
 Dialogue: 0,0:21:12.52,0:21:14.03,Default,,0,0,0,,Did something happen, Riko?
-Dialogue: 0,0:21:15.07,0:21:17.02,Default,,0,0,0,,I'm going to deliver this documents
+Dialogue: 0,0:21:15.07,0:21:17.02,Default,,0,0,0,,I'm going to deliver these documents
 Dialogue: 0,0:21:19.76,0:21:21.18,Default,,0,0,0,,I'm terribly sorry
 Dialogue: 0,0:21:22.16,0:21:23.42,Default,,0,0,0,,You were too aggressive
 Dialogue: 0,0:21:23.64,0:21:25.29,Default,,0,0,0,,Think it over and don't worry about it
@@ -384,7 +388,7 @@ Dialogue: 0,0:21:33.04,0:21:35.76,Default,,0,0,0,,There's not a lot of people wh
 Dialogue: 0,0:21:36.00,0:21:37.04,Default,,0,0,0,,Do your best
 Dialogue: 0,0:21:37.31,0:21:38.52,Default,,0,0,0,,Thank you very much
 Dialogue: 0,0:21:42.33,0:21:44.04,Default,,0,0,0,,It's not like I was scolded, got it?
-Dialogue: 0,0:21:44.57,0:21:46.04,Default,,0,0,0,,I don't think so
+Dialogue: 0,0:21:44.57,0:21:46.04,Default,,0,0,0,,I didn't think you were
 Dialogue: 0,0:21:47.60,0:21:49.93,Default,,0,0,0,,department 3 might come to an end soon
 Dialogue: 0,0:21:50.88,0:21:53.21,Default,,0,0,0,,A problematic person from department 1 is coming your way
 Dialogue: 0,0:21:59.26,0:22:00.28,Default,,0,0,0,,Asai
@@ -395,3 +399,5 @@ Dialogue: 0,0:22:11.93,0:22:13.34,Default,,0,0,0,,You...
 Dialogue: 0,0:22:13.34,0:22:15.24,Default,,0,0,0,,What are you saying with a straight face...
 Dialogue: 0,0:22:15.69,0:22:16.64,Default,,0,0,0,,Hey!
 Dialogue: 0,0:22:20.28,0:22:22.03,Default,,0,0,0,,Komukai...
+Comment: 0,0:22:39.87,0:22:39.92,Chapters,,0,0,0,,ED
+Comment: 0,0:23:39.93,0:23:39.98,Chapters,,0,0,0,,Preview
